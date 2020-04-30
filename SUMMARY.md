@@ -22,3 +22,7 @@
 
 * [技术设计](step5-jing-tai-zi-yuan-zhi-chi/ji-shu-she-ji.md)
 
+## step6-会话追踪
+
+* [技术设计](step6-hui-hua-zhui-zong/ji-shu-she-ji.md)
+
