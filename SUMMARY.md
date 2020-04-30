@@ -6,7 +6,7 @@
 
 * [Untitled](di-yi-zhang/untitled.md)
 
-## 第六章
+## step6-实现会话追踪 <a id="di-liu-zhang"></a>
 
-* [实现会话追踪](di-liu-zhang/shi-xian-hui-hua-zhui-zong.md)
+* [技术设计](di-liu-zhang/shi-xian-hui-hua-zhui-zong.md)
 
